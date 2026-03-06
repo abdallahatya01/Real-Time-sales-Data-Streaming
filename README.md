@@ -1,8 +1,7 @@
 # Real-Time Sales Streaming Pipeline  
 **End-to-End Data Engineering Project** using Kafka, Spark, Airflow & Cassandra
 
-![Project Architecture](https://via.placeholder.com/800x400.png?text=Sales+Streaming+Pipeline+Architecture)  
-*(يمكنك استبدال الرابط ده بصورة حقيقية لاحقًا – مثلاً diagram من draw.io أو excalidraw)*
+![Project Architecture]([https://via.placeholder.com/800x400.png?text=Sales+Streaming+Pipeline+Architecture](https://assets.grok.com/users/c86278c1-e610-4192-90ea-eae324e89671/generated/13ab7148-5c0b-4537-a12e-4da8410faf11/image.jpg))  
 
 ## 📌 Project Overview
 
